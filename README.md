@@ -1,6 +1,6 @@
 # GeoFace Attendance System
 
-A Face Recognition Based Attendance System developed using the MERN Stack and Python Face Recognition API.
+Face Recognition Based Attendance Management System built using MERN Stack and Python.
 
 ## Features
 
@@ -10,9 +10,8 @@ A Face Recognition Based Attendance System developed using the MERN Stack and Py
 - Employee Dashboard
 - Admin Dashboard
 - Attendance History
-- Block / Unblock Employee
+- Block/Unblock Employee
 - Delete Employee
-- JWT Authentication
 
 ## Tech Stack
 
@@ -23,28 +22,15 @@ A Face Recognition Based Attendance System developed using the MERN Stack and Py
 - Python
 - Flask
 - OpenCV
-- face_recognition
 
-## Run Project
+## Project Status
 
-### Backend
-```bash
-npm install
-npm start
-```
+✔ Completed and running locally.
 
-### Frontend
-```bash
-npm install
-npm run dev
-```
+## Repository
 
-### Python API
-```bash
-source venv/bin/activate
-python app.py
-```
+https://github.com/Pranjalikashyap/GeoFace-Attendance-System
 
-## GitHub
+## Author
 
-Author: **Pranjali Kashyap**
+Pranjali Kashyap
